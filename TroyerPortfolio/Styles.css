@@ -1,0 +1,74 @@
+img {
+  height: 125px; width: auto;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #777777
+}
+
+p {
+  color: navyblue;
+}
+
+@font-face {
+  font-family: KaushanScript-Regular;
+  src: url(Fonts/KaushanScript-Regular.otf);
+}
+
+h1 {
+  font-family: KaushanScript-Regular, fantasy;
+}
+
+fieldset {
+  display: block;
+  margin-right: 480px;
+  border-style: double;
+  border-color: darkblue;
+}
+
+body {
+  background: lightblue;
+  opacity: 0.75;
+}
+
+blockquote {
+  border-style: groove;
+  padding: 20px;
+}
+
+textarea {
+  width: 400px;
+  height: auto;
+}
+
+input {
+  width: 200px;
+}
+
+#aboutme {
+  margin-top:50px;
+  margin-left: 50px;
+  margin-right:400px;
+}
+
+.thingstocenter {
+  text-align: center;
+}
+
+#submit {
+  background-color: darkblue;
+  color: white;
+  width: 80px;
+  border-radius: 10px;
+}
+
+.leftborder {
+  border-left: solid darkblue 10px;
+  padding-left: 10px;
+}
+
+.links {
+  font-style: italic;
+}
+
+
+
+<!--2 different CSS3 effects like border-image, box-shadow)-->
